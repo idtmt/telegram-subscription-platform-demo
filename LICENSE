@@ -1,0 +1,228 @@
+PROPRIETARY COMMERCIAL LICENSE
+
+Copyright (c) 2026 idtmt
+
+All rights reserved.
+
+1. GRANT OF LICENSE
+
+Subject to payment of the applicable license fee and compliance with
+the terms of this license, the copyright holder grants the purchaser
+a limited, non-exclusive, non-transferable, non-sublicensable license
+to use the software and source code contained in this repository
+(the "Software").
+
+The license permits the purchaser to:
+
+* install and run the Software on their own infrastructure;
+* use the Software for commercial purposes;
+* modify, adapt, extend, and otherwise change the Software;
+* build and operate a commercial application or service based on the
+  Software;
+* use the Software as part of one permitted commercial project;
+* create and use compiled, bundled, or otherwise transformed versions
+  of the Software as part of the permitted project.
+
+2. SINGLE PROJECT LICENSE
+
+Unless a different license is explicitly purchased or agreed to in
+writing, this license is limited to one commercial project.
+
+A "project" means one independently operated product, application,
+service, website, Telegram bot, Telegram WebApp, or other software
+system based on the Software.
+
+The purchaser may use modified versions of the Software within that
+same project without purchasing an additional license.
+
+Use of the Software for additional independent commercial projects
+requires a separate license for each project unless the purchaser has
+obtained a multi-project, agency, or other extended license.
+
+3. PROHIBITED USE
+
+The purchaser may NOT:
+
+* resell the Software or its source code;
+* redistribute the Software as a source-code template;
+* publish the complete Software or substantial portions of its source
+  code publicly;
+* upload the Software or substantial portions of its source code to
+  GitHub, GitLab, Bitbucket, or similar public repositories;
+* sublicense, assign, rent, lease, or otherwise transfer the Software
+  or this license to another person or organization;
+* sell access to the source code itself;
+* sell the Software as a competing template, boilerplate, starter kit,
+  framework, or source-code product;
+* create a competing commercial template substantially derived from
+  the Software;
+* distribute the Software to third parties for the purpose of allowing
+  those parties to reuse the source code independently;
+* remove or alter copyright, ownership, or license notices contained
+  in the Software, except where such modification is technically
+  necessary for the permitted project.
+
+4. CLIENT WORK
+
+The purchaser may use the Software to build a product or service for
+a client as part of the purchaser's permitted project.
+
+The purchaser may deliver the resulting application or service to the
+client in compiled, deployed, or otherwise non-source-code form.
+
+The purchaser may not transfer the underlying source code or this
+license to the client unless the copyright holder has expressly
+authorized such transfer in writing.
+
+If the purchaser requires the client to independently possess,
+modify, or reuse the source code, a separate license must be obtained
+for that client or project.
+
+5. DERIVATIVE WORKS
+
+The purchaser may modify the Software and create derivative works for
+the permitted project.
+
+However, derivative works may not be distributed, sold, or licensed
+as a source-code template or competing software product in a manner
+that would allow third parties to obtain and reuse the underlying
+source code independently of the permitted project.
+
+6. OWNERSHIP
+
+The Software, including its original source code, architecture,
+documentation, design, and other materials created by the copyright
+holder, remains the exclusive property of the copyright holder.
+
+This license grants usage rights only. It does not transfer ownership,
+copyright, intellectual property rights, or title to the Software.
+
+The purchaser retains ownership of their own original code and
+materials that are independently created by the purchaser and are not
+part of the Software.
+
+7. THIRD-PARTY SOFTWARE
+
+The Software may contain, depend upon, or integrate with third-party
+software, libraries, frameworks, services, fonts, icons, or other
+components.
+
+Such third-party components are not licensed under this agreement
+where their own licenses apply.
+
+The purchaser is responsible for complying with all applicable
+third-party license terms.
+
+Nothing in this license is intended to restrict rights granted by
+third-party open-source licenses that cannot legally be restricted.
+
+8. TRADEMARKS AND BRANDING
+
+This license does not grant any rights to trademarks, logos, service
+marks, product names, domain names, or other branding belonging to the
+copyright holder or third parties.
+
+The purchaser may modify branding and application-specific content
+for the permitted project.
+
+9. SECURITY AND CREDENTIALS
+
+The purchaser is responsible for configuring and securing their own
+deployment, including but not limited to:
+
+* database credentials;
+* API keys;
+* Telegram bot tokens;
+* authentication secrets;
+* environment variables;
+* production infrastructure;
+* server access;
+* payment configuration.
+
+The purchaser must not redistribute credentials, secrets, or private
+configuration belonging to the copyright holder.
+
+10. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NON-INFRINGEMENT, AVAILABILITY, SECURITY, OR ERROR-FREE OPERATION.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL MEET THE
+PURCHASER'S REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, OR BE FREE
+FROM DEFECTS OR SECURITY VULNERABILITIES.
+
+11. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT
+HOLDER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF
+PROFITS, REVENUE, DATA, BUSINESS, OR GOODWILL ARISING FROM OR RELATED
+TO THE USE OF THE SOFTWARE.
+
+12. TERMINATION
+
+This license automatically terminates if the purchaser materially
+violates its terms.
+
+Upon termination, the purchaser must cease all use of the Software
+and destroy unauthorized copies of the source code, except where
+retention is required by applicable law.
+
+Termination does not affect rights that were lawfully exercised before
+the termination date.
+
+13. TRANSFER
+
+This license is personal to the purchaser and may not be transferred,
+assigned, sold, sublicensed, or otherwise provided to another person
+or organization without prior written permission from the copyright
+holder.
+
+14. UPDATES AND SUPPORT
+
+Unless expressly agreed otherwise in writing, this license does not
+include technical support, maintenance, updates, upgrades, hosting,
+deployment services, or future versions of the Software.
+
+Any support or maintenance agreement is separate from this license.
+
+15. REFUNDS
+
+License fees are subject to the refund policy of the marketplace,
+payment provider, or sales agreement through which the Software was
+purchased.
+
+Unless otherwise required by applicable law, obtaining access to the
+source code constitutes delivery of the licensed Software.
+
+16. GOVERNING LAW
+
+This license shall be governed by and interpreted in accordance with
+the laws applicable to the copyright holder, unless otherwise required
+by applicable law or agreed in a separate written agreement.
+
+17. ENTIRE AGREEMENT
+
+This license constitutes the complete agreement concerning the
+licensed use of the Software unless a separate written agreement
+between the copyright holder and purchaser explicitly supersedes or
+supplements these terms.
+
+18. CONTACT
+
+For licensing questions, commercial licenses, extended licenses,
+agency licenses, or exclusive licensing arrangements, contact:
+
+idtmt.dev@gmail.com
+
+19. COPYRIGHT NOTICE
+
+Copyright (c) 2026 idtmt
+
+All rights reserved.
+
+Unauthorized copying, redistribution, resale, sublicensing, or
+commercial distribution of this Software or substantial portions of
+its source code is prohibited.
