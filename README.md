@@ -9,6 +9,8 @@
 
 > Production-oriented Telegram subscription platform with Telegram Mini App,
 > Telegram Stars payments, access management, admin panel and background workers.
+>
+> **This repository is a public showcase of the product. The commercial application source code is not included.**
 
 Telegram-платформа для продажи подписок на закрытые Telegram-ресурсы.
 
